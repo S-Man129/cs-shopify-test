@@ -60,4 +60,3 @@ As this is a technical assessment, contributions are not expected. However, feed
 ## License
 
 This project is for assessment purposes and does not have a specific license.
-```
